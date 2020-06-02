@@ -1,5 +1,7 @@
 # ESP8266 Game oled 1.3"
-## ```Nếu đã ghé vào thì cho mình 1 sao nhé```
+
+## `Nếu đã ghé vào thì cho mình 1 sao nhé`
+
 ## Phần cứng
 
 - Thiết bị có 3 nút nhấn chức năng và 1 nút nhấn reset.
@@ -10,9 +12,12 @@
 - OLED（SDA-D1，SCL-D2）
 
 - [Link mua thiết bị ở đây](https://shopee.vn/Esp8266-m%C3%A0n-h%C3%ACnh-oled-1.3--i.28473572.7534622099)
-- [video demo deauther](https://youtu.be/wkQ8k0uaHms)
-- [video demo game](https://www.youtube.com/watch?v=lw4Dw__N6mw)
-- [![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+<!-- - [video demo deauther](https://youtu.be/wkQ8k0uaHms)
+- [video demo game](https://www.youtube.com/watch?v=lw4Dw__N6mw) -->
+- [![video demo game](http://i.imgur.com/7YTMFQp.png)]("https://www.youtube.com/embed/wkQ8k0uaHms "video demo game")
+
+- [![video demo deauther](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/embed/watch?v=lw4Dw__N6mw "video demo deauther")
+
 - Ảnh Thiết bị
   ![image info](./images/imag1.png)
   ![image info](./images/pin.jpg)
@@ -23,7 +28,6 @@
 - Hỗ trợ Alert
 - Hỗ trợ Menu
 - Hỗ trợ Button
-
 
 ## Tham khảo
 
