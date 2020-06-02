@@ -12,11 +12,8 @@
 - OLED（SDA-D1，SCL-D2）
 
 - [Link mua thiết bị ở đây](https://shopee.vn/Esp8266-m%C3%A0n-h%C3%ACnh-oled-1.3--i.28473572.7534622099)
-<!-- - [video demo deauther](https://youtu.be/wkQ8k0uaHms)
-- [video demo game](https://www.youtube.com/watch?v=lw4Dw__N6mw) -->
-- [![video demo game](http://i.imgur.com/7YTMFQp.png)]("https://www.youtube.com/embed/wkQ8k0uaHms "video demo game")
-
-- [![video demo deauther](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/embed/watch?v=lw4Dw__N6mw "video demo deauther")
+- [video demo deauther](https://youtu.be/wkQ8k0uaHms)
+- [video demo game](https://www.youtube.com/watch?v=lw4Dw__N6mw)
 
 - Ảnh Thiết bị
   ![image info](./images/imag1.png)
