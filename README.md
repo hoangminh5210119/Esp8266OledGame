@@ -1,29 +1,32 @@
-# README #
+# ESP8266 Game oled 1.3"
+## ```Nếu đã ghé vào thì cho mình 1 sao nhé```
+## Phần cứng
 
-This README would normally document whatever steps are necessary to get your application up and running.
+- Thiết bị có 3 nút nhấn chức năng và 1 nút nhấn reset.
+- pin được tích hợp bên trong sạc qua micro USB.
+- có thể nạp lại chương trình khác nếu muốn.
+- Nút nhấn D6，D8，D7
+- Hỗ trợ ra hai hàng chân bên hông để lập trình `Không có D1 và D2`
+- OLED（SDA-D1，SCL-D2）
 
-### What is this repository for? ###
+- [Link mua thiết bị ở đây](https://shopee.vn/Esp8266-m%C3%A0n-h%C3%ACnh-oled-1.3--i.28473572.7534622099)
+- [video demo deauther](https://youtu.be/wkQ8k0uaHms)
+- [video demo game](https://www.youtube.com/watch?v=lw4Dw__N6mw)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+- Ảnh Thiết bị
+  ![image info](./images/imag1.png)
+  ![image info](./images/pin.jpg)
+  ![image info](./images/full.jpg)
 
-### How do I get set up? ###
+## Phần mềm thư viện
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+- Hỗ trợ Alert
+- Hỗ trợ Menu
+- Hỗ trợ Button
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+## Tham khảo
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+- [esp8266 deauther](https://github.com/SpacehuhnTech/esp8266_deauther)
+- [SimpleButton](https://github.com/spacehuhn/SimpleButton)
+- [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
