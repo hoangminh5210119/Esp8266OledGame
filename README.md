@@ -12,7 +12,7 @@
 - [Link mua thiết bị ở đây](https://shopee.vn/Esp8266-m%C3%A0n-h%C3%ACnh-oled-1.3--i.28473572.7534622099)
 - [video demo deauther](https://youtu.be/wkQ8k0uaHms)
 - [video demo game](https://www.youtube.com/watch?v=lw4Dw__N6mw)
-
+- [![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 - Ảnh Thiết bị
   ![image info](./images/imag1.png)
   ![image info](./images/pin.jpg)
